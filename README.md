@@ -8,7 +8,7 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209711233-15963b37-2a47-4d86-827d-fe5af86343b5.png"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/57944755/209988687-131f96e0-c40c-423a-844f-64081f08cd3f.png"></div>
 
 # 👁️‍🗨️ Introducció
 De manera recurrent en la nostra tasca diària volem fer més curts els enllaços de les pàgines que visitam i volem compartir a dins documents, pàgines... Per això tenim a la nostra disposició gran quantitat de pàgines com TinyURL que ens faciliten la tasca. Però, t'interessa saber com fer-ho a través de Python. Revisa la informació que trobaràs a continuació per descobrir com, amb 5 línies de codi, som capaços de treure el resultat desitjat.
@@ -37,7 +37,11 @@ user@kubunu-mnebot:~$ sudo pip install pyshorteners
 
 # 👇 Descàrrega i execució
 Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **escurcar_url_tinyurl_python.py**) per a la seva posterior execució: 
-<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/baixar_youtube_python/blob/main/baixar_youtube.py" target="_blank">aquí</a>.
+<p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/escur-ar_url_tinyurl_python/blob/main/escurcar_url_tinyurl_python.py" target="_blank">aquí</a>.
+
+# 🏆 Vull saber-ne més
+Veuràs que a la instrucció final d'"impressió" en pantalla de resultat, hi ha una part que apareix en color verd, com s'aconsegueix? És molt senzill, fent ús dels codis de colors disponibles per a la terminal. Fes clic <a href="https://github.com/whitedevops/colors/blob/c998952eaed0/colors.go" target="_blank">aquí</a> per saber-ne més.
+<p></p>Ah! Recorda que perquè no segueixi pintant amb el mateix color has d'aturar-lo amb el codi següent: "\033[0m".
 
 # ➕ Informació
 1️⃣ L'arxiu **.py** ha estat comentat al detall (#) per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
